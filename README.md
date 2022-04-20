@@ -5,4 +5,4 @@ Features: Patient Information, Room Availability, Staff and Operating Room Sched
 
 Tech Stack: HTML, CSS, JavaScript, BootStrap.
 
-Hosted url: 
+Hosted url: https://lemon-beach-07c272310.1.azurestaticapps.net
